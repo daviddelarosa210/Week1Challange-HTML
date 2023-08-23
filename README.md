@@ -12,7 +12,6 @@ Visuals:
 Below is a link to the project page as well as screenshots for a better visual representation.
 https://daviddelarosa210.github.io/Week1Challange-HTML/
 
-"./assets/images/social-media-marketing.jpg"
 
 ![Alt text](<Develop/assets/images/Screen Shot 2023-08-23 at 4.45.56 PM.png>)
 ![Alt text](<Develop/assets/images/Screen Shot 2023-08-23 at 4.46.22 PM.png>)
